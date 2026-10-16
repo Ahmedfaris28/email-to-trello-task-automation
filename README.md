@@ -24,12 +24,23 @@ flowchart TD
 
 ## Screenshots
 
-The sanitized image files are supplied in the separate portfolio package, pending upload to this repository.
+The following images were uploaded to this repository. Screenshots are provided for illustration and should be reviewed for confidentiality before making the repository public.
 
-- Flow overview: `assets/flow-overview.png`
-- Expanded extraction scope: `assets/field-extraction.png`
-- Successful runs: `assets/run-history-redacted.png`
-- Illustrative task layout: `assets/sample-card-redacted.png`
+**Workflow overview**
+
+![Workflow overview](<ChatGPT Image Oct 15, 2026, 09_58_04 PM.png>)
+
+**Workflow execution history**
+
+![Execution evidence](<ChatGPT Image Oct 15, 2026, 09_58_13 PM.png>)
+
+**Sample task output**
+
+![Sample output](<ChatGPT Image Oct 15, 2026, 09_58_20 PM.png>)
+
+**Expanded field extraction**
+
+![Field extraction steps](<Extract Fields Workflow Diagram.png>)
 
 ## My implementation
 
@@ -59,7 +70,7 @@ The primary email-to-task path was implemented and tested. Additional status-spe
 
 ## Data and confidentiality
 
-This repository contains **no live client records, corporate addresses, internal resource identifiers, or original parsing expressions**. The complete internal design and production configuration are intentionally omitted. Screenshots should only be added after redaction and review.
+The written case study intentionally omits production configuration, original parsing expressions, and corporate contact details. Images must be separately reviewed for confidentiality before making the repository public.
 
 ## Author contribution
 
