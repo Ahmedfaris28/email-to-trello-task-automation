@@ -30,6 +30,10 @@ The following images were uploaded to this repository. Screenshots are provided 
 
 ![Workflow overview](<ChatGPT Image Oct 15, 2026, 09_58_04 PM.png>)
 
+**Expanded field extraction**
+
+![Field extraction steps](<Extract Fields Workflow Diagram.png>)
+
 **Workflow execution history**
 
 ![Execution evidence](<ChatGPT Image Oct 15, 2026, 09_58_13 PM.png>)
@@ -37,10 +41,6 @@ The following images were uploaded to this repository. Screenshots are provided 
 **Sample task output**
 
 ![Sample output](<ChatGPT Image Oct 15, 2026, 09_58_20 PM.png>)
-
-**Expanded field extraction**
-
-![Field extraction steps](<Extract Fields Workflow Diagram.png>)
 
 ## My implementation
 
